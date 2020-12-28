@@ -1,0 +1,25 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+ipykernel = "*"
+uiautomator = "*"
+pyyaml = "*"
+pytest = "*"
+pytest-html = "*"
+robotframework = "*"
+pytest-mock = "*"
+mock = "*"
+alog = "*"
+sphinx = "*"
+rinohtype = "*"
+ray = "*"
+robotframework-pabot = "*"
+robotremoteserver = "*"
+
+[requires]
+python_version = "3.7"
